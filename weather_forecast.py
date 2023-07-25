@@ -4,7 +4,7 @@ import sys
 
 
 def get_weather(city):
-    api_key = "bc16d91560e37d9cb15f19dc9606e15d"
+    api_key = "bc16d91560e37d9cb15f17dc9601e65d" # key has been disabled
     base_url = "http://api.openweathermap.org/data/2.5/weather"
     params = {
         "q": city,
